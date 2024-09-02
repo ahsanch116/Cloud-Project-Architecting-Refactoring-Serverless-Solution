@@ -18,7 +18,7 @@ This project involves upgrading an on-premises application to AWS using managed 
 
 The architecture diagram of this project is as follows:
 
-<img width="400" alt="exercise-1" src="https://github.com/user-attachments/assets/8f611534-e058-4132-bfc1-eb53b34f06ea">
+<img width="800" alt="exercise-1" src="https://github.com/user-attachments/assets/8f611534-e058-4132-bfc1-eb53b34f06ea">
 
 ## Architecture Diagram for Exercise 1
 
